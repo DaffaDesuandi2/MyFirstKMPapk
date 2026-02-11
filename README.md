@@ -58,4 +58,4 @@ Proyek ini dibuat sebagai bagian dari **Praktikum Kotlin Multiplatform – Mingg
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Aplikasi Android](screenshots/Dokum.png)
+![Tampilan Aplikasi Android](Screenshot 2026-02-11 201938.png)
